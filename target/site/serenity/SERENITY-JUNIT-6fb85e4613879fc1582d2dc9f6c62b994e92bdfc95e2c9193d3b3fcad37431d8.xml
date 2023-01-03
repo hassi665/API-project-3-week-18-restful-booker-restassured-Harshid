@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.restful.booker.bookinginfo.BookingCRUDTestWithSteps" skipped="0" tests="1" time="0.1" timestamp="2023-01-03T18:13:54.210Z[Europe/London]"><testcase classname="com.restful.booker.bookinginfo.BookingCRUDTestWithSteps" name="This method will get booking with Id"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.restful.booker.bookinginfo.BookingCRUDTestWithSteps.test004(BookingCRUDTestWithSteps.java:65)&#13;
+</system-err></testcase></testsuite>
